@@ -1,7 +1,7 @@
 ### Hi there, I'm Amine 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amine_elhattami?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/amine_elhattami?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami)
+[![Linkedin: amine_elhattami](https://img.shields.io/badge/-Amine%20Elhattami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-elhattami-73841947/)](https://www.linkedin.com/in/amine-elhattami-73841947/)
 ### Connect with me:
 
 [<img align="left" alt="blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
@@ -34,6 +34,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://amine-elhattami.medium.com/)
+<!-- YOUTUBE-LIST:START --><!-- YOUTUBE-LIST:END -->
 
 ---
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am1n3e&count_private=true&show_icons=true)

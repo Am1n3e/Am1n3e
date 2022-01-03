@@ -14,3 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://amine-elhattami.medium.com/feed"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5HESU2PZakGoNS2pYeO5Og"
