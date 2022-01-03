@@ -14,15 +14,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -34,13 +25,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://amine-elhattami.medium.com/)
+
+---
+
+### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE-LIST:START -->
-- [How to setup and customize  FZF for your own workflow](https://www.youtube.com/watch?v=JTnVmkHgxjE)
-- [IdeaVim Casts #4: Window Navigation](https://www.youtube.com/watch?v=SfXn1-YIafE)
-- [IdeaVim Casts #3: Terminal](https://www.youtube.com/watch?v=bEtZ1a274mo)
-- [IdeaVim Casts #2: Distraction Free Mode](https://www.youtube.com/watch?v=vXcc-HnUG18)
-- [IdeaVim Casts #1: Actions](https://www.youtube.com/watch?v=hn9BegB-Orc)
 <!-- YOUTUBE-LIST:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
+
 
 ---
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am1n3e&count_private=true&show_icons=true)
