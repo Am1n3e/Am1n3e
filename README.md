@@ -30,6 +30,7 @@
 ➡️ [more blog posts...](https://amine-elhattami.medium.com/)
 
 ---
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am1n3e&count_private=true&show_icons=true)
 
 [twitter]: https://twitter.com/amine_elhattami
 [blog]: https://amine-elhattami.medium.com/
