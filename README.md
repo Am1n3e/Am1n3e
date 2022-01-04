@@ -1,9 +1,20 @@
 ### Hi there, I'm Amine 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amine_elhattami?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami)
-[![Linkedin: amine_elhattami](https://img.shields.io/badge/-Amine%20Elhattami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-elhattami-73841947/)](https://www.linkedin.com/in/amine-elhattami-73841947/)
-[![Medium blog](https://img.shields.io/badge/Follow%20@amine%20elhattami-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://amine-elhattami.medium.com/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5HESU2PZakGoNS2pYeO5Og?style=social)](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
+<p align="center">
+    <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami">
+        <img alt="Amine Elhattami Twitter" src="https://img.shields.io/twitter/follow/amine_elhattami?style=social">
+    </a>
+    <a href="https://www.linkedin.com/in/amine-elhattami-73841947/">
+        <img alt="Amine Elhattami Linkedin" src="https://img.shields.io/badge/-Amine%20Elhattami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-elhattami-73841947/">
+    </a>
+    <a href="https://amine-elhattami.medium.com/">
+        <img alt="Amine Elhattami Medium" src="https://img.shields.io/badge/Follow%20@amine%20elhattami-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og">
+        <img alt="Youtube channel" src="https://img.shields.io/youtube/channel/subscribers/UC5HESU2PZakGoNS2pYeO5Og?style=social">
+    </a>
+</p>
+
 <br />
 <br />
 
