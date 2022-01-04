@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amine_elhattami?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami)
 [![Linkedin: amine_elhattami](https://img.shields.io/badge/-Amine%20Elhattami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-elhattami-73841947/)](https://www.linkedin.com/in/amine-elhattami-73841947/)
-[![Medium blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://amine-elhattami.medium.com/)
+[![Medium blog](https://img.shields.io/badge/Follow%20@amine%20elhattami-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://amine-elhattami.medium.com/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5HESU2PZakGoNS2pYeO5Og?style=social)](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
 <br />
 <br />
