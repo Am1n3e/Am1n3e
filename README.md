@@ -2,13 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amine_elhattami?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami)
 [![Linkedin: amine_elhattami](https://img.shields.io/badge/-Amine%20Elhattami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-elhattami-73841947/)](https://www.linkedin.com/in/amine-elhattami-73841947/)
-### Connect with me:
-
-[<img align="left" alt="blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[![Medium blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://amine-elhattami.medium.com/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5HESU2PZakGoNS2pYeO5Og?style=social)](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
 <br />
 <br />
 
