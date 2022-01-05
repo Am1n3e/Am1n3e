@@ -1,6 +1,9 @@
 <div align="center">
 
  # Hi there, I'm Amine 👋 
+ 
+I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
+ 
   ### You can find me on:
 
 <div align="center">
