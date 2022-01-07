@@ -29,11 +29,11 @@ I'm a research developer with industry experience in machine learning applicatio
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7  Tweaks To Stand Out With Your GitHub Profile](https://betterprogramming.pub/7-tweaks-to-stand-out-with-your-github-profile-766350420ff2?source=rss-d6424acda24a------2)
 - [Meet FZF: A Fuzzy Finder to Enhance Your Command-line Workflow](https://betterprogramming.pub/meet-fzf-a-fuzzy-finder-to-enhance-your-command-line-workflow-a2890f6a70f8?source=rss-d6424acda24a------2)
 - [How to Create and Train a Multi-Task Transformer Model](https://towardsdatascience.com/how-to-create-and-train-a-multi-task-transformer-model-18c54a146240?source=rss-d6424acda24a------2)
 - [A Gentle Introduction to Code Generation Evaluation](https://towardsdatascience.com/a-gentle-introduction-to-code-generation-evaluation-c8dff8c3d19a?source=rss-d6424acda24a------2)
 - [Meet Forgit: A Tool for Using Git More Interactively](https://betterprogramming.pub/how-to-make-your-git-command-line-interactions-seamless-769d5c148097?source=rss-d6424acda24a------2)
-- [Beyond Codex: A Code Generation Model That You Can Train](https://towardsdatascience.com/beyond-codex-a-code-generation-model-that-you-can-train-6ac9bdcba07f?source=rss-d6424acda24a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://amine-elhattami.medium.com/)
