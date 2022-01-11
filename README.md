@@ -73,6 +73,8 @@ I'm a research developer with industry experience in machine learning applicatio
 
 </div>
 
+* To build a similar Github profile page, check out [this blog post](https://betterprogramming.pub/7-tweaks-to-stand-out-with-your-github-profile-766350420ff2)
+
 [twitter]: https://twitter.com/amine_elhattami
 [blog]: https://amine-elhattami.medium.com/
 [youtube]: https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og
