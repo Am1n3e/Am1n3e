@@ -43,11 +43,11 @@ I'm a research developer with industry experience in machine learning applicatio
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-LIST:START -->
+- [IdeaVim Casts #5: Easy Motion. A better way to jump around your source code.](https://www.youtube.com/watch?v=-VchkiGMLGE)
 - [How to setup and customize  FZF for your own workflow](https://www.youtube.com/watch?v=JTnVmkHgxjE)
 - [IdeaVim Casts #4: Window Navigation](https://www.youtube.com/watch?v=SfXn1-YIafE)
 - [IdeaVim Casts #3: Terminal](https://www.youtube.com/watch?v=bEtZ1a274mo)
 - [IdeaVim Casts #2: Distraction Free Mode](https://www.youtube.com/watch?v=vXcc-HnUG18)
-- [IdeaVim Casts #1: Actions](https://www.youtube.com/watch?v=hn9BegB-Orc)
 <!-- YOUTUBE-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
