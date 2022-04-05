@@ -29,11 +29,11 @@ I'm a research developer with industry experience in machine learning applicatio
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Learn Vim-Keybindings Even If You Don’t Use Vim](https://betterprogramming.pub/why-you-should-learn-vim-keybindings-even-if-you-dont-use-vim-6563c5357b64?source=rss-d6424acda24a------2)
 - [How to Better Deploy Your Machine Learning Model](https://towardsdatascience.com/how-to-better-deploy-your-machine-learning-model-6f179483a289?source=rss-d6424acda24a------2)
 - [The Essential IdeaVim Plugins](https://betterprogramming.pub/the-essential-ideavim-plugins-f939b4325180?source=rss-d6424acda24a------2)
 - [7  Tweaks To Stand Out With Your GitHub Profile](https://betterprogramming.pub/7-tweaks-to-stand-out-with-your-github-profile-766350420ff2?source=rss-d6424acda24a------2)
 - [Meet FZF: A Fuzzy Finder to Enhance Your Command-line Workflow](https://betterprogramming.pub/meet-fzf-a-fuzzy-finder-to-enhance-your-command-line-workflow-a2890f6a70f8?source=rss-d6424acda24a------2)
-- [How to Create and Train a Multi-Task Transformer Model](https://towardsdatascience.com/how-to-create-and-train-a-multi-task-transformer-model-18c54a146240?source=rss-d6424acda24a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://amine-elhattami.medium.com/)
