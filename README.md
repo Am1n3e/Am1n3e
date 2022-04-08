@@ -43,11 +43,11 @@ I'm a research developer with industry experience in machine learning applicatio
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-LIST:START -->
+- [IdeaVim Casts #8: Multiple-Cursors. How handle multiple cursors in IdeaVim.](https://www.youtube.com/watch?v=2jUQRaC0pis)
 - [IdeaVim Casts #7: Surround. How to surround anything easily.](https://www.youtube.com/watch?v=3DbSedh38no)
 - [IdeaVim Casts #6: NERDTree. How to take control of the project pane.](https://www.youtube.com/watch?v=dwxi60ZGeTM)
 - [IdeaVim Casts #5: Easy Motion. A better way to jump around your source code.](https://www.youtube.com/watch?v=-VchkiGMLGE)
 - [How to setup and customize  FZF for your own workflow](https://www.youtube.com/watch?v=JTnVmkHgxjE)
-- [IdeaVim Casts #4: Window Navigation](https://www.youtube.com/watch?v=SfXn1-YIafE)
 <!-- YOUTUBE-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og)
